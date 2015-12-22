@@ -1,0 +1,28 @@
+name: SSU
+favicon: null
+layout_spectrum: 0.08249076083302498
+typography_spectrum: 0.4545050226151943
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.07027262286283076
+  lightness: 0.11057900404557586
+  saturation: 0.37723819026723504
+  rhythmicContrast: 0.11411666520871222
+purpose: []
