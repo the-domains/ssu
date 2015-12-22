@@ -2,25 +2,24 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-22T23:31:35.428Z'
-dateModified: '2015-12-22T22:59:42.310Z'
+datePublished: '2015-12-22T23:47:59.086Z'
+dateModified: '2015-12-22T23:47:44.991Z'
 title: Scholarship Sports USA
 author: []
+sourcePath: _posts/2015-12-22-scholarship-sports-usa.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-22-scholarship-sports-usa.md
-published: true
 _type: Blurb
 
 ---
 # Scholarship Sports USA
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9dea039620613248a677f8d5d285413af7d972ea.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a28f98f-e529-4502-95f2-be52216d7360.png)
