@@ -1,7 +1,7 @@
 name: SSU
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.75381
+layout_spectrum: 0.74365
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#ffffff'
+    - '#ee2527'
+    - '#435eab'
+    - '#000000'
+    - '#00ffff'
   brandStrength: 0.125
-  lightness: 0.1875
+  lightness: 0.0625
   saturation: 0.5
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0
 purpose: []
