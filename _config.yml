@@ -1,7 +1,7 @@
 name: SSU
 favicon: null
-layout_spectrum: 0.08249076083302498
-typography_spectrum: 0.4545050226151943
+layout_spectrum: 1
+typography_spectrum: 0.75381
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.07027262286283076
-  lightness: 0.11057900404557586
-  saturation: 0.37723819026723504
-  rhythmicContrast: 0.11411666520871222
+  brandStrength: 0.125
+  lightness: 0.1875
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
