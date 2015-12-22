@@ -2,15 +2,22 @@
     <channel>
         <title><![CDATA[Scholarship Sports USA]]></title>
         <description><![CDATA[Scholarship Sports USA]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ssu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 23:32:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Dec 2015 23:46:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ssu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SSU]]></title>
+            <description><![CDATA[<article><h1>SSU</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4d37e88-10c2-48e2-8dfd-c7d023611204.png"></article>]]></description>
+            <link>https://thegrid.ai/ssu/ssu/index.html</link>
+            <guid isPermaLink="false">f9a065e4-a3f6-4b94-a5f6-64d7d3b21a6d</guid>
+            <pubDate>Tue, 22 Dec 2015 23:45:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Useful Links]]></title>
             <description><![CDATA[<article><h1>Useful Links</h1><p>NCAA
 – </p></article>]]></description>
-            <link>undefineduseful-links/index.html</link>
+            <link>https://thegrid.ai/ssu/useful-links/index.html</link>
             <guid isPermaLink="false">ec1666c4-f28f-43ff-afc5-ccfec4ab8e3f</guid>
             <pubDate>Tue, 22 Dec 2015 23:31:35 GMT</pubDate>
         </item>
