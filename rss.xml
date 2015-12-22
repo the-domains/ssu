@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Scholarship Sports USA]]></title>
+        <description><![CDATA[Scholarship Sports USA]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 22 Dec 2015 23:32:21 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Useful Links]]></title>
+            <description><![CDATA[<article><h1>Useful Links</h1><p>NCAA
+– </p></article>]]></description>
+            <link>undefineduseful-links/index.html</link>
+            <guid isPermaLink="false">ec1666c4-f28f-43ff-afc5-ccfec4ab8e3f</guid>
+            <pubDate>Tue, 22 Dec 2015 23:31:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
