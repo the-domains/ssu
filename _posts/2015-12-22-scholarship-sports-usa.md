@@ -2,12 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-22T23:47:59.086Z'
-dateModified: '2015-12-22T23:47:44.991Z'
+datePublished: '2015-12-23T00:52:21.639Z'
+dateModified: '2015-12-23T00:48:37.410Z'
 title: Scholarship Sports USA
 author: []
 sourcePath: _posts/2015-12-22-scholarship-sports-usa.md
