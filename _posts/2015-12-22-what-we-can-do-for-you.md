@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-22T23:31:35.620Z'
-dateModified: '2015-12-22T22:52:28.217Z'
+datePublished: '2015-12-23T00:51:40.856Z'
+dateModified: '2015-12-23T00:51:37.978Z'
 title: What We Can Do For You...
 author: []
+sourcePath: _posts/2015-12-22-what-we-can-do-for-you.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-22-what-we-can-do-for-you.md
-published: true
 url: what-we-can-do-for-you/index.html
 _type: Blurb
 
@@ -44,4 +44,4 @@ issue you with a FREE strength and conditioning programme. The opportunity to
 head Stateside will improve you as a player, person and more importantly will
 enhance your future with a Bachelor's Degree. Simply fill out our free
 evaluation form today to get the process started!
-![Gotta love those 6 a.m. starts!](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0b8e43e-d427-4b66-b12d-c07913a65105.png)
+![Gotta love those 6 a.m. starts!](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b23964fdca677a27c457d30e5d472ae0801c1a70.png)
