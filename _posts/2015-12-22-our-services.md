@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-22T23:31:35.434Z'
-dateModified: '2015-12-22T23:26:07.485Z'
+datePublished: '2015-12-23T00:51:09.525Z'
+dateModified: '2015-12-23T00:51:06.560Z'
 title: Our Services
 author: []
+sourcePath: _posts/2015-12-22-our-services.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-22-our-services.md
-published: true
 url: our-services/index.html
 _type: Blurb
 
@@ -43,5 +43,5 @@ chosen university
 You
 will pay an upfront fee (45%), and then your second and final instalment (55%) will
 be paid no later than six months after your acceptance with SSU.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4561ddb0-394b-4c1a-b1a1-7d1d9f10def6.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/332736bd881e298ad70901ade1776ba8b7106937.png)
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bef5e5d6fb2a29f28a2dc7794e4305f5/passthrough.png?height=600&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F4561ddb0-394b-4c1a-b1a1-7d1d9f10def6.png)
