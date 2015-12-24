@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Scholarship Sports USA]]></title>
+        <description><![CDATA[Scholarship Sports USA]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 24 Dec 2015 02:04:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Hard Work Starts Now...]]></title>
+            <description><![CDATA[<article><h1>The Hard Work Starts Now...</h1><p>On the grind...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/62ed60f0ebe65d9bc399739e88c62a895b9d9e74.png"></article>]]></description>
+            <link>undefinedthe-hard-work-starts-now/index.html</link>
+            <guid isPermaLink="false">6abc7ec2-b8ce-4b54-ba0c-62f9e0eac255</guid>
+            <pubDate>Thu, 24 Dec 2015 02:03:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
