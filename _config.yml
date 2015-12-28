@@ -1,6 +1,6 @@
 name: SSU
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.93328
 typography_spectrum: 0.73875
 title: Scholarship Sports USA
 cta:
@@ -23,7 +23,7 @@ color:
     - '#b2a8a7'
     - '#87210f'
   brandStrength: 0.5
-  lightness: 0.25
+  lightness: 0.3125
   saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
